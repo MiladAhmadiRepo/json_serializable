@@ -1,6 +1,6 @@
 import 'package:json_annotation/json_annotation.dart';
 
-part 'PictureModel.g.dart';
+part 'picture_model.g.dart';
 
 @JsonSerializable()
 class PictureModel{

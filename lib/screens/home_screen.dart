@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:json_serializable_app/model/PersonModel .dart';
+import 'package:json_serializable_app/model/person_model.dart';
 import 'package:json_serializable_app/services/person_network_service.dart';
 
 class HomeScreen extends StatelessWidget {

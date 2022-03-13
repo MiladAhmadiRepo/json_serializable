@@ -1,6 +1,6 @@
 import 'package:json_annotation/json_annotation.dart';
 
-part 'NameModel.g.dart';
+part 'name_model.g.dart';
 
 @JsonSerializable()
 class NameModel {

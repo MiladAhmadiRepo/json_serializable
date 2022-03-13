@@ -1,9 +1,9 @@
 import 'package:json_annotation/json_annotation.dart';
 
-import 'NameModel.dart';
-import 'PictureModel.dart';
+import 'name_model.dart';
+import 'picture_model.dart';
 
-part 'PersonModel .g.dart';
+part 'person_model.g.dart';
 
 @JsonSerializable()
 class PersonModel {

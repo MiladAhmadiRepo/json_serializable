@@ -1,7 +1,7 @@
 import 'dart:convert';
 
 import 'package:http/http.dart' as http;
-import 'package:json_serializable_app/model/PersonModel .dart';
+import 'package:json_serializable_app/model/person_model.dart';
 
 const String randomPersonURL = "https://randomuser.me/api";
 
