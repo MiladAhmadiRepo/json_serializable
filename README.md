@@ -8,6 +8,6 @@ One-time code generation
 
 By running 
 
-flutter pub run build_runner 
+flutter pub run build_runner build
 
-build in the project root,
+in the project root,
