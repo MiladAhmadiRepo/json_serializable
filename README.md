@@ -6,4 +6,7 @@ A new Flutter project.
 
 One-time code generation
 
-By running flutter pub run build_runner build in the project root,
+By running flutter 
+
+
+pub run build_runner build in the project root,
