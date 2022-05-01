@@ -91,5 +91,4 @@ Line 14: The toJson method returns as expected a Json (in Dart a Map between Str
 # حال دستور زیر را در terminal  اجرا کنید 
 
 flutter pub run build_runner build
-
-in the project root,
+ 
