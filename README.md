@@ -11,7 +11,7 @@
 # Basic Network Request — Example App
 با کمک  RandomUserAPI یک اپ درست میکنیم که لیستی از گاربران را نمایش دهد .
 
-<img src="https://miro.medium.com/max/654/1*uog29sHlPyl_zWFhjMX5iw.gif"/>
+![](https://miro.medium.com/max/654/1*uog29sHlPyl_zWFhjMX5iw.gif)
 
 # Generated Serialization
 
