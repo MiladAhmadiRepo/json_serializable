@@ -15,6 +15,33 @@
 
 <img src="https://miro.medium.com/max/734/1*HcLcT3jbYnDp8qc45otUCg.png"/>
 
+# Manual Flutter JSON Serialization
+
+As you probably already have seen, we have to write all the key strings into the class and pollute our class with API information.
+
+Additionally, we come into the trap that if we want to add or remove an attribute, we have to change it all over.
+
+That makes the maintainability pretty hard. Especially if the API changes and we have to create it from scratch.
+
+That would lead to a lot of searches and replacements, and we will lose all IDE supports.
+
+# Dependencies
+
+```yaml
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^0.1.3
+  http: ^0.12.0+4
+  json_annotation: ^3.0.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  build_runner: ^1.8.1
+  json_serializable: ^3.3.0
+```
+
 
 # Generated Serialization
 
